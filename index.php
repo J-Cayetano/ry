@@ -99,9 +99,9 @@
             </div>
             <br>
             <p>
-              Welcome to my portfolio! I am a dynamic professional known for my adaptability, empathetic approach, and unyielding ambition. 
-              With a proactive mindset, I tackle challenges head-on, leveraging my leadership skills to inspire collaborative success. 
-              Whether navigating diverse environments or spearheading initiatives, I bring a unique blend of qualities that drive positive outcomes. 
+              Welcome to my portfolio! I am a dynamic professional known for my adaptability, empathetic approach, and unyielding ambition.
+              With a proactive mindset, I tackle challenges head-on, leveraging my leadership skills to inspire collaborative success.
+              Whether navigating diverse environments or spearheading initiatives, I bring a unique blend of qualities that drive positive outcomes.
               Explore how my versatility and passion for leadership contribute to a transformative impact in various professional landscapes.
             </p>
           </div>
@@ -116,7 +116,7 @@
 
         <div class="section-title">
           <h2>Facts</h2>
-          <p>I am a versatile and dynamic professional, adept at navigating high-pressure situations with a calm and effective response. 
+          <p>I am a versatile and dynamic professional, adept at navigating high-pressure situations with a calm and effective response.
             With a unique blend of adaptability, empathy, ambition, and proactive leadership, I bring transformative impact to diverse roles, showcasing a passion for success and collaboration</p>
         </div>
 
@@ -165,9 +165,9 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>As a seasoned professional, I bring a unique blend of skills to the table. Trained as a first aider, I thrive in high-pressure situations, ensuring a calm and effective response. 
-            In the administrative realm, my organizational prowess and attention to detail shine, having successfully managed various tasks and streamlined processes. 
-            Additionally, my technical support expertise demonstrates a knack for problem-solving and a commitment to delivering top-notch assistance in the ever-evolving tech landscape. 
+          <p>As a seasoned professional, I bring a unique blend of skills to the table. Trained as a first aider, I thrive in high-pressure situations, ensuring a calm and effective response.
+            In the administrative realm, my organizational prowess and attention to detail shine, having successfully managed various tasks and streamlined processes.
+            Additionally, my technical support expertise demonstrates a knack for problem-solving and a commitment to delivering top-notch assistance in the ever-evolving tech landscape.
             Explore my portfolio to discover how this multifaceted approach translates into valuable contributions across diverse roles.</p>
         </div>
 
@@ -242,9 +242,9 @@
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Ryzl Beltran</h4>
-              <p><em>As an Admin Assistant at Charm Miles Enterprise since 2022, I manage the design, development, and implementation of graphic materials, overseeing task delegation and budget administration. 
-                In my previous role as a Technical Support professional at Alorica from 2021 to 2022, I provided technical assistance, managed multiple projects under pressure, 
-                and delivered monthly technical presentations and proposals.</em></p>
+              <p><em>As an Admin Assistant at Charm Miles Enterprise since 2022, I manage the design, development, and implementation of graphic materials, overseeing task delegation and budget administration.
+                  In my previous role as a Technical Support professional at Alorica from 2021 to 2022, I provided technical assistance, managed multiple projects under pressure,
+                  and delivered monthly technical presentations and proposals.</em></p>
               <ul>
                 <li>Quezon City, Philippines</li>
                 <li>ryzlbeltran@gmail.com</li>
@@ -301,8 +301,8 @@
 
         <div class="section-title">
           <h2>Gallery</h2>
-          <p>Explore the world through my lens in the Gallery Section, where moments from my professional endeavors, global travels, cherished hobbies, and captivating portraits come together. 
-            Each photograph is a glimpse into the stories I've lived and the beauty I've encountered. 
+          <p>Explore the world through my lens in the Gallery Section, where moments from my professional endeavors, global travels, cherished hobbies, and captivating portraits come together.
+            Each photograph is a glimpse into the stories I've lived and the beauty I've encountered.
             Join me on a visual journey that reflects the diversity of my experiences and the artistry of life captured through my camera.</p>
         </div>
 
@@ -328,7 +328,7 @@
                 <p>Experiences</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="First Aid Response"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -342,7 +342,7 @@
                 <p>Travels</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -355,7 +355,7 @@
                 <p>Personal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Me, Myself, and I"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -369,7 +369,7 @@
                 <p>Experiences</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Technical Support"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -383,7 +383,7 @@
                 <p>Hobbies</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Cafe Hopping"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -397,12 +397,12 @@
                 <p>Personal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Me, Myself, and I"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
-            <!-- DONE -->
+          <!-- DONE -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-experiences">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
@@ -411,7 +411,7 @@
                 <p>Experiences</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -425,12 +425,12 @@
                 <p>Hobbies</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Hiking"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
-            <!-- DONE -->
+          <!-- DONE -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-hobbies">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
@@ -439,7 +439,7 @@
                 <p>Hobbies</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travelling"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -453,7 +453,7 @@
                 <p>Personal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Me, Myself, and I"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -467,7 +467,7 @@
                 <p>Travels</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Tagaytay"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -496,9 +496,9 @@
                 <h4>Chef &amp; Partner in Crime</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Ry is a hardworking lady who's very passionate on whatever she do. 
-                  She is a type of a lady that will always check up on you time after time and will make sure that you are okay. 
-                  Her charming personality will surely has an effect on everyone surrounding her. 
+                  Ry is a hardworking lady who's very passionate on whatever she do.
+                  She is a type of a lady that will always check up on you time after time and will make sure that you are okay.
+                  Her charming personality will surely has an effect on everyone surrounding her.
                   Witnessing her slowly chasing her dreams really inspires me to go for an extra mile.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
