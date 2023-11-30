@@ -596,7 +596,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Ryzel Beltran</h3>
+      <h3>Ryzl Beltran</h3>
       <p>Bold Woman, Bright Future!</p>
       <div class="social-links">
         <a href="https://twitter.com/ayyyits_schwnnM" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
